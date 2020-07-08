@@ -10,3 +10,4 @@ row_count = 10 # row images count
 column_count = 10 # column images count
 ```
 ## Sample Image
+![sample_img](./sample_img.jpg)
